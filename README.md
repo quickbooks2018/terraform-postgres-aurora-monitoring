@@ -1,6 +1,6 @@
 # aws-rds-postgres-monitoring
 
-- cloudgeeks.ca
+https://cloudgeeks.ca
 
 ```docker-compose
 docker-compose up -d
