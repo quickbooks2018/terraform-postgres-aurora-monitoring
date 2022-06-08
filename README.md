@@ -1,4 +1,4 @@
-# aws-rds-postgres-monitoring
+# aws-rds-postgres-aurora-monitoring
 
 https://cloudgeeks.ca
 
