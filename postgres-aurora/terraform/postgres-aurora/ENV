@@ -1,0 +1,2 @@
+export TF_VAR_cluster_master_username="dbadmin"
+export TF_VAR_cluster_master_password="123456789"
